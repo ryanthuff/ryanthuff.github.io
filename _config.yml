@@ -27,7 +27,7 @@ twitter_username: ryanthomashuff
 github_username:  ryanthuff
 
 # Build settings
-theme: slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
