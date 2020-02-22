@@ -27,7 +27,7 @@ twitter_username: ryanthomashuff
 github_username:  ryanthuff
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
